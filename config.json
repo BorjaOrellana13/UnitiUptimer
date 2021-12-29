@@ -1,0 +1,26 @@
+ {
+    "bot": {
+        "prefix": "up/",
+        "id": "906364642039824385",   
+        "secret": "dyVY60HOi-LBG51XqD0ZBGVpCYXdCcgo"
+    },
+    "dashboard": {
+        "port": 3000,
+        "url": "https://UnitiUptimer.borjaorellana.repl.co",
+        "callback": "https://UnitiUptimer.borjaorellana.repl.co/callback",
+        "discord_server_ID": "897169523122262026",
+        "ownerids": ["726580291073998868", "726580291073998868"],
+        "ownershow": true,
+        "owners": [
+            {
+                "id": "726580291073998868",
+                "desc": "Owner"
+            }
+        ],
+        "arc": {
+            "enabled": false,
+            "code": ""
+        }
+    },
+    "discord": "no"
+ }
